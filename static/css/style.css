@@ -1,0 +1,35 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.title {
+    background-color: red;
+    color: white;
+    margin: 0px auto 20px auto;
+}
+
+.centered {
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+
+}
+
+.sqr_a {
+    width: 32px;
+    height: 32px;
+    /* background-color: red; */
+}
+
+.sqr_b {
+    width: 32px;
+    height: 32px;
+    /* background-color:black; */
+}
+
+.row {
+    display: flex;
+}
